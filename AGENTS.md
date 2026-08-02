@@ -32,6 +32,7 @@ Single-context repo with domain overview in `CONTEXT.md` and architectural decis
 - `tdd` — Test-driven development (red-green-refactor).
 - `implement` — Guided implementation with spec.
 - `prototype` — Build throwaway prototypes to test ideas.
+- `hexagonal-architecture-refactor` — Plan hexagonal refactorings and characterization tests for legacy code.
 
 ### Code Quality
 - `code-review` — Review changes against standards and spec.
